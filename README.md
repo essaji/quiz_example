@@ -1,14 +1,10 @@
-# ng2_starter
-Angular 2.0 starter
+# Quiz Example
 
-#Usage
-`git clone https://github.com/essaji/ng2_starter.git`
-
-`cd ng2_starter`
-
-`npm install`
-
-`npm install -g live-server`
-
-`live-server`
-#Quiz_Example 
+## Get it running
+```
+git clone https://github.com/essaji/quiz_example.git
+cd quiz_example
+npm install
+npm install -g live-server
+live-server
+```
